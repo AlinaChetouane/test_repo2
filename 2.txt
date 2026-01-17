@@ -3,3 +3,9 @@ Steps and info about test case1
 
 Test case2
 Steps and info about test case2
+
+Test case3
+Steps and info about test case3
+
+Passed - 2
+Failed -1
