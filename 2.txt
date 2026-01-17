@@ -1,2 +1,5 @@
 Test case1
 Steps and info about test case1
+
+Test case2
+Steps and info about test case2
